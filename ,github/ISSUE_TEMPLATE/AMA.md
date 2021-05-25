@@ -1,11 +1,12 @@
 ---
-name: ama-template
+name: ama
 about: Just a nice template for my ask me anything!
 title: "--Replace-With-Your-Question!--"
-assignees: darkdarcool
----
+labels: 'STATUS: NOT ANSWERED'
+assignees: RayhanADev
 
-# Hello! 
+---
+# Hello @darkdarcool! 
 
 <!--Put your question(s) here -->
 
