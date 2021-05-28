@@ -3,7 +3,7 @@ name: ama
 about: Just a nice template for my ask me anything!
 title: "--Replace-With-Your-Question!--"
 labels: 'STATUS: NOT ANSWERED'
-assignees: RayhanADev
+assignees: darkdarcool
 
 ---
 # Hello @darkdarcool! 
